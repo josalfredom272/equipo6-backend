@@ -4,9 +4,6 @@ logs/*.log
 .thumbs
 dist/
 
-# Env related
-**/.env
-nodemon.json
+
 
 # keys from: https://8gwifi.org/jwsgen.jsp
-keys/*

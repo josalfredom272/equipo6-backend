@@ -1,0 +1,10 @@
+{
+	"env": {
+		"PORT": 3001,
+		"LOG_ACCESS": "dev.log",
+		"DB_CONNECTION_STRING": "mongodb+srv://root:root@cluster0.stov8fq.mongodb.net/?retryWrites=true&w=majority",
+		"ACCESS_TOKEN_SECRET": "a8d8109f-9c99-4adc-9950-de425461804a",
+		"REFRESH_TOKEN_SECRET": "ace4a37a-27a2-4d78-bd71-04793147f7fc",
+		"ALLOWED_HOST": "http://localhost:3000"
+	}
+}
